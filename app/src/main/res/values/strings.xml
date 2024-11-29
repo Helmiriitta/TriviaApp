@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">Daily Brain Break</string>
+    <string name="home_screen_title">Trivia of the Day</string>
+    <string name="history_screen_title">History</string>
+    <string name="no_history_available">No game history available.</string>
+    <string name="clear_history">Clear History</string>
+    <string name="game_over_score">Game Over! Your Score: %1$d</string>
+    <string name="restart_game">Restart Game</string>
+    <string name="error_message">Error fetching trivia: %1$s</string>
+    <string name="restart_error_message">Error restarting game: %1$s</string>
+    <string name="category_label">Category: %1$s</string>
+    <string name="details_button">Details</string>
+    <string name="game_details_title">Game Details</string>
+    <string name="game_date_label">Date: %1$s</string>
+    <string name="game_score_label">Score: %1$d</string>
+    <string name="question_label">Question:</string>
+    <string name="your_answer_label">Your answer:</string>
+    <string name="correct_answer_label">Correct answer:</string>
+    <string name="back_button_description">Back</string>
+    <string name="share_button_description">Share</string>
+    <string name="share_text_title">Share via</string>
+</resources>

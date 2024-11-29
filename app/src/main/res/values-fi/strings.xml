@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Daily Brain Break</string>
+    <string name="home_screen_title">Päivän kysymys</string>
+    <string name="history_screen_title">Historia</string>
+    <string name="no_history_available">Ei peliä historiassa.</string>
+    <string name="clear_history">Tyhjennä Historia</string>
+    <string name="game_over_score">Peli on päättynyt! Pisteesi: %1$d</string>
+    <string name="restart_game">Pelaa uudelleen</string>
+    <string name="error_message">Virhe kysymysten latautumisessa: %1$s</string>
+    <string name="restart_error_message">Virhe pelin uudelleenkäynnistyksessä: %1$s</string>
+    <string name="category_label">Kategoria: %1$s</string>
+    <string name="details_button">Yksityiskohdat</string>
+    <string name="game_details_title">Pelin tiedot</string>
+    <string name="game_date_label">Päivämäärä: %1$s</string>
+    <string name="game_score_label">Pisteet: %1$d</string>
+    <string name="question_label">Kysymys:</string>
+    <string name="your_answer_label">Vastauksesi:</string>
+    <string name="correct_answer_label">Oikea vastaus:</string>
+    <string name="back_button_description">Takaisin</string>
+    <string name="share_button_description">Jaa</string>
+    <string name="share_text_title">Jaa</string>
+</resources>
